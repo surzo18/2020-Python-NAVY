@@ -1,6 +1,17 @@
 # NAVY 
 ### [FIELD OF STUDY at university]
 
+<div style="display:flex; flex-wrap:wrap; justify-content:center; margin-bottom:10px;">
+    <img src="./preview_perceptron.png"/>
+    <img src="./preview_l_systems.png"/>
+    <img src="./preview_hopfield.png"/>
+</div>
+<div style="display:flex; flex-wrap:wrap; justify-content:center;">
+    <img src="./preview_forest_fire.png"/>
+    <img src="./preview_find_a_cheese.png"/>
+    <img src="./preview_fern.png"/>
+</div>
+
 ## Getting Started
 
 Link on subject: [LINK](http://navy.cs.vsb.cz/)

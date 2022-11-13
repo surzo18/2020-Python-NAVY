@@ -12,9 +12,9 @@ SCREEN_HEIGHT = BOARD_SIZE * TALE_SIZE
 white = (255,255,255)
 
 images = {
-    "mouse": pygame.image.load("C:/Users/AnetaOpletalova/Disk Google/PycharmProjects/navy/Utils/assets/mouse.png"),
-    "trap": pygame.image.load("C:/Users/AnetaOpletalova/Disk Google/PycharmProjects/navy/Utils/assets/trap.png"),
-    "cheese": pygame.image.load("C:/Users/AnetaOpletalova/Disk Google/PycharmProjects/navy/Utils/assets/cheese.png")
+    "mouse": pygame.image.load("./Utils/assets/mouse.png"),
+    "trap": pygame.image.load("./Utils/assets/trap.png"),
+    "cheese": pygame.image.load("./Utils/assets/cheese.png")
 }
 
 def mouse_render(path, matrix):
