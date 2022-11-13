@@ -1,8 +1,6 @@
 # NAVY 
 ### [FIELD OF STUDY at university]
 
-![Preview](https://github.com/surzo18/Zadanie/blob/main/Preview.png)
-
 ## Getting Started
 
 Link on subject: [LINK](http://navy.cs.vsb.cz/)
