@@ -4,6 +4,7 @@
 ## Getting Started
 
 Link on subject: [LINK](http://navy.cs.vsb.cz/)
+
 Link on Professor weppage: [Ivan Zelinka](https://ivanzelinka.eu/)
 
 In this project I've elaborated tasks from lessons. There are a lot of useful algorithms related to machine learning.
